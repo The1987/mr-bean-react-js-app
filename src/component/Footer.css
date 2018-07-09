@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.foot {
+
+        background-color: rgb(84,53,158);
+        color: white;
+        height: 80px;
+        padding: 20px;
+        box-shadow: black;
+        list-style-type: none;
+        /* position: fixed; */
+        width: 100%;
+}

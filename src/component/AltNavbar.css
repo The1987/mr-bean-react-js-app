@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.navDesign {
+    background-color: rgb(84,53,158);
+    color: white;
+    height: 80px;
+    padding: 20px;
+    list-style-type: none;
+    width: 100%;
+}
+
+.navDesign li {
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.top {
+    text-align: center;
+    height: 280px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+.bk {
+    background-image: url('../images/bk.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
